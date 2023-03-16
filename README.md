@@ -27,8 +27,8 @@ To have a quick idea of what we’ll be coding in Python, it’s always a good p
 4. Remove stopwords (very common words like pronouns, articles, etc.)
 5. Split emails into training email and testing emails
 6. For each test email, calculate the similarity between it and all training emails
-    6.1. For each word that exists in either test email or training email, count its frequency in both emails
-    6.2. calculate the euclidean distance between both emails to determine similarity
+        6.1.  For each word that exists in either test email or training email, count its frequency in both emails
+        6.2.  calculate the euclidean distance between both emails to determine similarity
 7. Sort the emails in ascending order of euclidean distance
 8. Select the k nearest neighbors (shortest distance)
 9. Assign the class which is most frequent in the selected k nearest neighbours to the new email
@@ -43,3 +43,4 @@ The email data set for spam and ham (normal email) is obtained from “The Enron
 ## result : 
 
 
+![reesult of model](https://github.com/parvvaresh/email-spam-with-KNN-from-scratch-/blob/main/result.png)

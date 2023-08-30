@@ -19,7 +19,7 @@ we use hazm for pre process
 ---
 plot of accuracy : 
 
-![accuracy](https://github.com/parvvaresh/email-spam-detection/assets/89921883/c754b5c4-b63f-4e6a-9d8a-3bcc2ed5d7f3)
+![accuracy](https://github.com/parvvaresh/email-spam-detection/blob/main/src/plots/accuracy.png)
 
 ---
 

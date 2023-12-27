@@ -43,7 +43,7 @@ The project uses Hazm, a comprehensive natural language processing library for P
 The accuracy of each algorithm with different word embedding techniques is presented in both a plot and a table:
 
 ### Accuracy Plot
-![Accuracy Plot](https://github.com/parvvaresh/email-spam-detection/blob/main/src/plots/accuracy.png)
+![image](https://github.com/parvvaresh/email-spam-detection/assets/89921883/05dd3baa-2b16-4f63-870d-e15b35a0da62)
 
 ### Accuracy Table
 
